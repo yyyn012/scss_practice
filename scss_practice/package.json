@@ -1,0 +1,12 @@
+{
+  "name": "scss_practice",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "yyyn012",
+  "license": "MIT"
+}
